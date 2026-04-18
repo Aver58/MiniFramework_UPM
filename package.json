@@ -1,0 +1,23 @@
+
+{
+  "name": "com.aver.miniframework",
+  "displayName": "MiniFramework",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Lightweight Unity game framework with MVVM UI, event system, and resource management.",
+  "keywords": [
+    "framework",
+    "mvvm",
+    "ui",
+    "event",
+    "resources"
+  ],
+  "category": "Framework",
+  "author": {
+    "name": "aver",
+    "url": ""
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.21.0"
+  }
+}

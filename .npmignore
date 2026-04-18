@@ -1,0 +1,4 @@
+# Documentation files that don't need to be in the package
+CLAUDE.md
+*.md
+*.md.meta

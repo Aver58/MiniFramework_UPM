@@ -19,6 +19,6 @@
     "url": ""
   },
   "dependencies": {
-    "com.unity.addressables": ">=1.21.0"
+    "com.unity.addressables": "1.22.3"
   }
 }

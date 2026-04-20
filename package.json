@@ -1,24 +1,22 @@
-
 {
-  "name": "com.aver.miniframework",
-  "displayName": "MiniFramework",
-  "version": "1.0.1",
-  "unity": "2022.3",
-  "unityRelease": "0f1",
-  "description": "Lightweight Unity game framework with MVVM UI, event system, and resource management.",
-  "keywords": [
-    "framework",
-    "mvvm",
-    "ui",
-    "event",
-    "resources"
-  ],
-  "category": "Framework",
-  "author": {
-    "name": "aver",
-    "url": ""
-  },
-  "dependencies": {
+	"name": "com.aver.miniframework",
+	"displayName":"MiniFramework",
+	"version": "0.1.0",
+	"unity": "2022.3",
+	"unityRelease": "13f1",
+	"description": "Lightweight Unity game framework with MVVM UI, event system, and resource management.",
+	"keywords": [
+		"framework",
+		"mvvm",
+		"ui",
+		"event",
+		"resources"
+	],
+	"dependencies": {
     "com.unity.addressables": "1.22.3"
-  }
+	},
+	"author": {
+		"name": "aver",
+		"url": ""
+	}
 }
